@@ -30,8 +30,7 @@ namespace mvc_locations.Data
                                                 new City { id = 3, country_id = 1, city_name = "Peking", latitude = 39.9042m, longitude = 116.4074m },
                                                 new City { id = 4, country_id = 1, city_name = "Šangaj", latitude = 31.2304m, longitude = 121.4737m },
                                                 new City { id = 5, country_id = 3, city_name = "Kampala", latitude = 0.3476m, longitude = 32.5825m },
-                                                new City { id = 6, country_id = 3, city_name = "Gulu", latitude = 2.7724m, longitude = 32.2881m}
-                                                );
+                                                new City { id = 6, country_id = 3, city_name = "Gulu", latitude = 2.7724m, longitude = 32.2881m});
         }
     }
 }
